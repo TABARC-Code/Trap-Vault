@@ -1,0 +1,19 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="20" y="150" width="120" height="60" fill="#3b82f6"/>
+  <text x="30" y="185" fill="white">Raw Input</text>
+  
+  <rect x="200" y="150" width="120" height="60" fill="#f59e0b"/>
+  <text x="215" y="185" fill="white">Claude</text>
+  
+  <rect x="380" y="80" width="140" height="60" fill="#10b981"/>
+  <text x="395" y="115" fill="white">Concepts</text>
+  
+  <rect x="380" y="160" width="140" height="60" fill="#10b981"/>
+  <text x="395" y="195" fill="white">Datasets</text>
+  
+  <rect x="380" y="240" width="140" height="60" fill="#10b981"/>
+  <text x="395" y="275" fill="white">Synthesis</text>
+  
+  <rect x="580" y="150" width="160" height="60" fill="#7c3aed"/>
+  <text x="600" y="185" fill="white">Field Hubs</text>
+</svg>
